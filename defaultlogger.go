@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/oddcancer/log/level"
+	"github.com/oddengine/log/level"
 )
 
 const (

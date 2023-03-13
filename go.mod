@@ -1,3 +1,3 @@
-module github.com/oddcancer/log
+module github.com/oddengine/log
 
 go 1.17

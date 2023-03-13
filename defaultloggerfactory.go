@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/oddcancer/log/level"
+	"github.com/oddengine/log/level"
 )
 
 // DefaultLoggerFactory creates new DefaultLogger.

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/oddcancer/log/utils"
+	"github.com/oddengine/log/utils"
 )
 
 // Schedule Types.
