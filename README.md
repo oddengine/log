@@ -1,6 +1,6 @@
 # logger
 
-Factory-Pattern Logger with DefaultWriter (file) in Go.
+Factory-Pattern log module with rotatable DefaultWriter (file) in Golang.
 
 ## Example
 
